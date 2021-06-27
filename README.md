@@ -23,4 +23,4 @@ FlightGear simulator - https://www.flightgear.org/
 
 UML of the main classes in the program - https://github.com/ischulden/FlightGearAndroidApp/blob/main/MS3.pdf
 
-Short video presenting the progaram - https://youtu.be/Uw_x4Johu7A
+Short video presenting the progaram - https://youtu.be/0CmPxw8WtQ4
