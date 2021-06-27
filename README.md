@@ -9,13 +9,17 @@ Control the simulator using this joystick.
 To achieve that we used the **MVVM** architecture design.
 This app is written in Kotlin with Android Studio developing environment.
 
-Watch the video below for more infromation about the app and a small demonsttraion.
+Watch the video below for more infromation about the app and a small demonstraion.
+
+![screenshot](https://github.com/ischulden/FlightGearAndroidApp/blob/main/app_screenshot.png)
 
 ## Running
 
-In order to run the project you should download FlightGear simulator and clone the project to Android Studio where you can use your phone or emuiator to run the app.
+In order to run the project you should download FlightGear simulator and clone the project to Android Studio where you can use your phone or emulator to run the app.
 Then you should open the FlightGear app with the following settings:
 ![alt text](https://github.com/ischulden/FlightGearAndroidApp/blob/main/fg_settings.png?raw=true)
+
+At last, in your app you should put your IP address and port number 6400 and press the connect button. Enjoy!
 
 ## Links
 
