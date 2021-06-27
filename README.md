@@ -21,6 +21,6 @@ Then you should open the FlightGear app with the following settings:
 
 FlightGear simulator - https://www.flightgear.org/
 
-UML of the main classes in the program - https://github.com/Browniz23/Flight_Inspection_App/blob/master/Flight_Inspection_App/images/FlightgearProject.pdf
+UML of the main classes in the program - https://github.com/ischulden/FlightGearAndroidApp/blob/main/MS3.pdf
 
 Short video presenting the progaram - https://youtu.be/Uw_x4Johu7A
